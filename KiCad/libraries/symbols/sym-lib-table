@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "vhario-espc3")(type "KiCad")(uri "/home/madnad/Downloads/Pets/Mad_PlantBug/vhario-espc3.kicad_sym")(options "")(descr ""))
+  (lib (name "Mad_PlantBug")(type "KiCad")(uri "${KIPRJMOD}/Mad_PlantBug.kicad_sym")(options "")(descr ""))
+)
