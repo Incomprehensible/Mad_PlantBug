@@ -83,7 +83,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 99921208-67dd-461c-8609-cb17dd2a2f76))
   (pad "1" smd rect (at -10.875 0) (size 1.75 5.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1404536a-afc9-45a2-96f7-cb07f2d4f3d7))
   (pad "2" smd rect (at 10.875 0) (size 1.75 5.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3efec64f-80aa-4d41-b22f-0f4c40d95402))
-  (model "MY-2032-08.stp"
+  (model "MY-2032-08.stp" hide
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
@@ -92,5 +92,10 @@
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model "/home/madnad/test_stuff/b-parasite/kicad/lib/kicad/BatteryHolder_Keystone_3002_1x2032.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -180))
   )
 )
