@@ -22,4 +22,4 @@ Together with a resistance the probe forms an RC low-pass filter.\
 Changes in capacitance shape the output waveform observed by the sensor.
 \
 Measurement pipeline logic is as follows:\
-environment changes -> capacitance changes -> cutoff frequency changes -> peak amplitude changes
+`environment changes -> capacitance changes -> cutoff frequency changes -> peak amplitude changes`
