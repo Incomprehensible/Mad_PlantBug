@@ -23,3 +23,13 @@ Changes in capacitance shape the output waveform observed by the sensor.
 \
 Measurement pipeline logic is as follows:\
 `environment changes -> capacitance changes -> cutoff frequency changes -> peak amplitude changes`
+
+## Capacitance measurement
+* Clean PCB measurement in air: ~59pF
+* Fully submerged in water: 2nF
+<details><summary>Assembly & measurements</summary>
+<p>
+<img src="pictures/assembled.jpg" width="500" title="Powered on">
+<img src="pictures/submerged.jpg" width="500" title="Submerged in water">
+</p>
+</details>
