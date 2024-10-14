@@ -29,7 +29,7 @@ Measurement pipeline logic is as follows:\
 * Fully submerged in water: 2nF
 <details><summary>Assembly & measurements</summary>
 <p>
-<img src="pictures/assembled.jpg" width="500" title="Powered on">
-<img src="pictures/submerged.jpg" width="500" title="Submerged in water">
+<img src="pictures/assembled.jpg" width="400" title="Powered on">
+<img src="pictures/submerged.jpg" width="400" title="Submerged in water">
 </p>
 </details>
