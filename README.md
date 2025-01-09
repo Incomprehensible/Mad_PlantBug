@@ -33,3 +33,6 @@ Measurement pipeline logic is as follows:\
 <img src="pictures/submerged.jpg" width="400" title="Submerged in water">
 </p>
 </details>
+
+## Current issues
+* CR2032 footprint and power pins connection is incorrect.
